@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himath @himath-adithya
 - 👀 I’m interested in computer science, philosophy, music and etc.
-- 🌍 I'm currently learning C as a language.
+- 🌍 I'm currently learning C, Rust, C++ as languages.
 - 🌱 I’m currently learning @ University of Colombo, School of Computing
 - 📫 You can reach me on my email: himathadithya@gmail.com
 
