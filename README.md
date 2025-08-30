@@ -1,4 +1,4 @@
-- Hi, I’m Himath @himath-adithya
+- Hi, I’m Himath
 - I’m interested in computer science, philosophy, music and etc.
 - I'm currently learning C, Rust, C++ as languages.
 - I’m currently learning @ University of Colombo, School of Computing
