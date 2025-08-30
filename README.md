@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning @ University of Colombo, School of Computing
 - 📫 You can reach me on my email: himathadithya@gmail.com
 
+- 🥀 Holy cornball
+
 <!---
 himath-adithya/himath-adithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
