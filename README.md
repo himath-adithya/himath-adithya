@@ -1,8 +1,18 @@
-- Hi, I’m Himath
-- I’m interested in computer science, philosophy, music and etc.
-- I'm currently learning C, Rust, C++ as languages.
-- I’m currently learning @ University of Colombo, School of Computing
-- You can reach me on my email: himathadithya@gmail.com
+# Hi, I’m Himath
+
+Welcome to my GitHub profile.  
+I'm into computer science, philosophy, music, and whatever else catches my interest.
+
+## About Me
+- Studying at University of Colombo, School of Computing
+- Interests: Computer Science, Philosophy, Music, etc.
+- Usually trying to figure things out
+
+## Currently Learning
+- C, Rust, C++
+
+## How to Reach Me
+- Email: [himathadithya@gmail.com](mailto:himathadithya@gmail.com)
 
 <!---
 himath-adithya/himath-adithya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
